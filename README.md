@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Abhishek Patel
-<br><br> 🔭 I’m currently Persuing Masters from New Jersey Institue of Technology in Computer Science<br><br> 🌱 I’m a **Software Engineer** passionate about **Web Development, Python, and Machine Learning projects**.  <br><br> 👯 I’m looking to collaborate on **exciting web development and ML projects**.  <br><br> 💬 Ask me about Web development tools, technologies, and AWS cloud services<br><br> 📫 You can reach me via e-mail: ap3268@njit.edu
+<br><br> 🔭 I’m recently graduadted in Masters from New Jersey Institue of Technology in Computer Science<br><br> 🌱 I’m a **Software Engineer** passionate about **Web Development, Python, and Machine Learning projects**.  <br><br> 👯 I’m looking to collaborate on **exciting web development and ML projects**.  <br><br> 💬 Ask me about Web development tools, technologies, and AWS cloud services<br><br> 📫 You can reach me via e-mail: ap3268@njit.edu
 
 
 
